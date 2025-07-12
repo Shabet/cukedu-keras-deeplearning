@@ -13,3 +13,7 @@ uv run jupyter-notebook
 uv add numpy
 uv add pandas
 ```
+
+원본 소스 위치
+- https://drive.google.com/drive/u/0/folders/1gZEiUOHS5BJ3mHndq87GgCtiwvKN7Jif
+
